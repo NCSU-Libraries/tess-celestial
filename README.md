@@ -1,6 +1,6 @@
 # Tess-celestial
 
-This visual exhibit features tessellations created by Dr. Radmila Sazdanovic from the Department of Mathematics at North Carolina State University that explore the interplay of art, nature, culture, shape, perspective, and math in our everyday lives. Created using the software Tess and KnotPlot, these tessellations show symmetries of hyperbolic, negatively curved space and convey the beauty and subtlety of mathematical concepts that we encounter in our daily activities.
+This visual exhibit features tessellations created that explore the interplay of art, nature, culture, shape, perspective, and math in our everyday lives. Created by Dr. Radmila Sazdanovic from the Department of Mathematics at North Carolina State University using the software Tess and KnotPlot, these tessellations show symmetries of hyperbolic, negatively curved space and convey the beauty and subtlety of mathematical concepts that we encounter in our daily activities.
 
 ## About
 
@@ -9,6 +9,22 @@ Tess-celestial is a web-based visual application built at NCSU Libraries as part
 This application was built using Webpack 3 and is optimized to run in the Chrome browser. The layout design has been tested on displays ranging from 27:9 to 6:5 in aspect ratio. It is not currently optimized for personal devices.
 
 Tess-celestial is hosted on GitHub Pages and can be run via the following link: http://go.ncsu.edu/tess-celestial.
+
+## Large-scale display specifications and guidelines
+
+The properties below indicate considerations with regard to optimal display of this content on large-scale displays.
+
+**Content type:** web application available via URL
+
+**Required software:** modern web browser (Chrome suggested)
+
+**Optimal aspect ratio range:** 23:9 - 6:5 (landscape to square)
+
+**Optimal screen width:** 1700px - 8000px
+
+**Optimal screen height:** 2100px - 3800px
+
+**Optimal viewing distance:** near to moderate distance
 
 ## Authors
 
