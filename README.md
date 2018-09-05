@@ -1,6 +1,6 @@
 # Tess-celestial
 
-This visual exhibit features tessellations that explore the interplay of art, nature, culture, shape, perspective, and math in our everyday lives. Created by Dr. Radmila Sazdanovic from the Department of Mathematics at North Carolina State University using the software Tess and KnotPlot, these tessellations show symmetries of hyperbolic, negatively curved space and convey the beauty and subtlety of mathematical concepts that we encounter in our daily activities.
+This visual exhibit features tessellations that explore the interplay of art, nature, culture, shape, perspective, and math in our everyday lives. Created by Dr. Radmila Sazdanović from the Department of Mathematics at North Carolina State University using the software Tess and KnotPlot, these tessellations show symmetries of hyperbolic, negatively curved space and convey the beauty and subtlety of mathematical concepts that we encounter in our daily activities.
 
 ## About
 
