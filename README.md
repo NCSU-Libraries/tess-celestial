@@ -18,9 +18,9 @@ The properties below indicate considerations with regard to optimal display of t
 
 **Required software:** modern web browser (Chrome suggested)
 
-**Optimal aspect ratio range:** 23:9 - 6:5 (landscape to square)
+**Optimal aspect ratio range:** 27:9 - 6:5 (landscape to square)
 
-**Optimal screen width:** 1700px - 8000px
+**Optimal screen width:** 2600px - 8000px
 
 **Optimal screen height:** 2100px - 3800px
 
@@ -28,7 +28,7 @@ The properties below indicate considerations with regard to optimal display of t
 
 ## Authors
 
-Radmila Sazdanovic
+Radmila Sazdanović
 
 Jasmine Lang
 
